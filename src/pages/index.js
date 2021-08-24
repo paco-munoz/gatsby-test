@@ -84,11 +84,11 @@ const links = [
     text: "Tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "A great nigga nigga place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
     color: "#E95800",
   },
   {
-    text: "How to Guides",
+    text: "How to Guides viva VOX",
     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
